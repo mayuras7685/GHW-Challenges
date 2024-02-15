@@ -1,11 +1,10 @@
 ## Welcome to MoviesWay 👋
 
-<b> Movies recommendation engine </b>
+<b>🎥 Movies recommendation engine </b>
 
 `This web app suggests movies based on users interest`
 
 - Uses content based recommendations
-- This is version 2 of original MoviesWay web app
 
 These are few snapshots :
 
